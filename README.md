@@ -19,28 +19,7 @@ El notebook desarrolla un flujo ETL completo:
 
 ---
 
-## 2. ▌REQUISITOS DEL SISTEMA
-
-
-| **Lenguaje**     |
-|:-----------------:|
-| **Python >= 3.8**| 
-|<img src="https://github.com/user-attachments/assets/9352bed0-668d-49ec-ab0b-e621ef4fa462" width="120" alt="Python logo">|
-
-|| **Bibliotecas necesarias:** ||
-|:-----------------:|:-----------------:|:-----------------:|
-| **Pandas**      | **Matplotlib**      | **NumPy**     
-|<img src="https://github.com/user-attachments/assets/9a938aa7-6c50-4142-aab8-68180fb072f9" width="120" alt="Pandas logo"> | <img src="https://github.com/user-attachments/assets/06721bd1-e433-4c99-aa2c-5799c9d2b286" width="120" alt="Matplotlib logo"> | <img src="https://numpy.org/images/logo.svg" width="120" alt="NumPy logo"> |
-
-|Entorno ||
-|:-----------------:|:-----------------:|
-|Jupyter Notebook| Google Colab|
-|<img width="120" height="120" alt="descarga" src="https://github.com/user-attachments/assets/ce18a335-1543-4194-a5b8-551c19348b0d" />|<img width="120" height="120" alt="descarga (1)" src="https://github.com/user-attachments/assets/a1ed5c80-3052-4264-8935-0930f80f1a2d" />|
-
-
----
-
-## 3. ▌ESTRUCTURA DEL CÓDIGO
+## 2. ▌ESTRUCTURA DEL CÓDIGO
 
 1. Introducción y objetivo del proyecto.
 2. Conexión y descarga de datos JSON.
@@ -54,7 +33,7 @@ El notebook desarrolla un flujo ETL completo:
 
 ---
 
-## 6. ▌RESULTADOS PRINCIPALES
+## 3. ▌RESULTADOS PRINCIPALES
 
 * Distribución clara del churn general.
 * Patrones por género, tipo de contrato, método de pago.
@@ -62,7 +41,7 @@ El notebook desarrolla un flujo ETL completo:
 
 ---
 
-## 7. ▌CONCLUSIONES E INSIGHTS
+## 4. ▌CONCLUSIONES E INSIGHTS
 
 * Contratos mensuales y pagos electrónicos muestran mayor evasión.
 * Clientes con soporte técnico frecuente tienden a cancelar más.
@@ -70,7 +49,7 @@ El notebook desarrolla un flujo ETL completo:
 
 ---
 
-## 8. ▌RECOMENDACIONES
+## 5. ▌RECOMENDACIONES
 
 * Fidelizar clientes con contratos flexibles.
 * Revisar la experiencia de facturación.
@@ -78,7 +57,7 @@ El notebook desarrolla un flujo ETL completo:
 
 ---
 
-## 9. ▌PROBLEMAS FRECUENTES Y SOLUCIONES
+## 6. ▌PROBLEMAS FRECUENTES Y SOLUCIONES
 
 | Problema                  | Solución                                   |
 | ------------------------- | -------------------------------------------- |
